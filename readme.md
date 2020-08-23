@@ -1,1 +1,1 @@
-## Laravel and Vue - Restful API - Todo App
+## Laravel - Restful API
